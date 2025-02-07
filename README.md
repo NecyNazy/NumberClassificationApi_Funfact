@@ -4,6 +4,7 @@ An Api that fetches the properties and fun fact about any natural number using a
 ## API Endpoint
   -  **Base URL:** `http://numberclassificationapi-funfact-env.eba-dpzznybj.us-east-1.elasticbeanstalk.com/api/classify-number?number=371`
   -  **GET /api/classify-number:** - Fetches the properties and funfact about any natural number.
+  -  **GITHUB URL: `https://github.com/NecyNazy/NumberClassificationApi_Funfact`
 
 ## JSON Response Format (200 OK)
 ```json
